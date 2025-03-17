@@ -1,0 +1,10 @@
+Puedes elegir una de las siguientes opciones:
+
+1️⃣  Hamburguesa Clásica 🍔
+2️⃣  Hamburguesa BBQ 🍔
+3️⃣  Hamburguesa de Pollo 🍔
+4️⃣  Hamburguesa Vegana 🍔
+5️⃣  Hamburguesa Picante 🍔
+
+
+Opcion 0️⃣ - Volver al Menu Anterior
