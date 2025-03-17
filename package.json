@@ -1,0 +1,43 @@
+{
+  "name": "base-bailey-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/src/app.js",
+    "lint": "eslint . --no-ignore",
+    "dev": "npm run lint && nodemon ./src/app.ts"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@bot-whatsapp/xbladeyx5": "https://registry.npmjs.org/xbladeyx5/-/xbladeyx5-0.1.25.tgz",
+    "@builderbot/bot": "^1.1.6",
+    "@builderbot/database-mysql": "^1.1.6",
+    "@builderbot/provider-baileys": "^1.1.6",
+    "@typescript-eslint/typescript-estree": "^7.13.1",
+    "base-bailey-json": "file:",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "nodemailer": "^6.9.14",
+    "pidusage": "^3.0.2",
+    "sharp": "^0.32.6",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.7",
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "eslint": "^8.52.0",
+    "eslint-plugin-builderbot": "latest",
+    "nodemon": "^3.1.0",
+    "rollup": "^4.10.0",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "tsx": "^4.7.1",
+    "typescript": "5.4"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+Puedes elegir una de las siguientes opciones:
+
+1️⃣  Ver nuestro menú 📜
+2️⃣  Ver nuestras promociones 🎉
+3️⃣  Consultar horarios de apertura 🕒
+4️⃣  Donde estan ubicados 📍
+5️⃣  Reservaciones 🥳
+6️⃣  Metodos de pago 💳️
+7️⃣  Hacer un pedido 🛵
+8️⃣  Agente
+9️⃣  Contacto
+
+Opcion 0️⃣ - Salir
+
